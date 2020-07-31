@@ -1,6 +1,8 @@
 # Updated-Portfolio
 
-[<img src="https://ibb.co/H2gZ8Gq">](https://KenanDeari.com)
+[<img src="https://github.com/KenanDeari/Updated-Portfolio/blob/master/images/ReadMe1.png">](https://KenanDeari.com)
+[<img src="https://github.com/KenanDeari/Updated-Portfolio/blob/master/images/Mobile.jpeg">](https://KenanDeari.com)
+
 
 _______________
 
